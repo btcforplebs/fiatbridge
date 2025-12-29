@@ -1,0 +1,9 @@
+{
+    "repos": [
+        {
+            "id": "fiatbidge",
+            "organisation": "lnbits",
+            "repository": "fiatbridge"
+        }
+    ]
+}

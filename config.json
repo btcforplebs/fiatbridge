@@ -1,0 +1,17 @@
+{
+  "name": "Fiat Bridge",
+  "short_description": "A bridge to allow websites to request Stripe checkout sessions.",
+  "tile": "/fiatbridge/static/image/fiatbridge.png",
+  "version": "0.1.0",
+  "min_lnbits_version": "1.4.0",
+  "contributors": [
+    {
+      "name": "BTCforPlebs",
+      "uri": "https://btcforplebs.com",
+      "role": "Developer"
+    }
+  ],
+  "images": [],
+  "description_md": "https://raw.githubusercontent.com/your-org/fiatbridge/main/README.md",
+  "license": "MIT"
+}
