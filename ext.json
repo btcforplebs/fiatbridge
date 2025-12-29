@@ -2,7 +2,7 @@
     "name": "Fiat Bridge",
     "short_description": "A public bridge for Stripe card payments to your LNbits wallet.",
     "icon": "payments",
-    "author": "GFY Bakery",
-    "homepage": "https://gfybakery.com",
+    "author": "BTCforPlebs",
+    "homepage": "https://btcforplebs.com",
     "has_static": true
 }
